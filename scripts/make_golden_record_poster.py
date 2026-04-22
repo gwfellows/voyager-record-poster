@@ -20,7 +20,7 @@ A_SERIES_MM = {
 }
 
 DEFAULT_QUOTE = (
-    "This is a present from a small, distant world, a token of our sounds, "
+    "This is a present from a small distant world, a token of our sounds, "
     "our science, our images, our music, our thoughts and our feelings. "
     "We are attempting to survive our time so we may live into yours."
 )
